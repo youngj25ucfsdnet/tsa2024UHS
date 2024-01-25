@@ -13,3 +13,7 @@ The Function:
 - the function scans voltage every 0.1 seconds
 - when the button is pressed, it opens the github repo and writes everything in userstuff/output.txt. it writes the voltage, and then the time (see userstuff/test_output.txt)
 - whatever tf happens next idk charles u write here
+
+The Pi:
+- the global user.name is youngj25ucfsdnet
+- the global user.email is youngj25@ucfsd.net
