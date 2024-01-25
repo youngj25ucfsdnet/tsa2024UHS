@@ -1,0 +1,15 @@
+The Breadboard Setup:
+- set up a button with an external battery that simply stops and starts a circuit
+- the bb line that has A2 is supposed to be part of the circuit
+- set up the mind wave reading circuit and put A0 in a bb line with it
+- follow this article on how to connect the breadboard to the raspberry pi --> https://diyprojectslab.com/ads1115-16-bit-adc-with-raspberry-pi/
+
+The ADS:
+- using ADS1115
+- the main function wire connects to A0
+- the end button connects to A2
+
+The Function:
+- the function scans voltage every 0.1 seconds
+- when the button is pressed, it opens the github repo and writes everything in userstuff/output.txt. it writes the voltage, and then the time (see userstuff/test_output.txt)
+- whatever tf happens next idk charles u write here
