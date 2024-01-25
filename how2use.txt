@@ -3,6 +3,7 @@ The Breadboard Setup:
 - the bb line that has A2 is supposed to be part of the circuit
 - set up the mind wave reading circuit and put A0 in a bb line with it
 - follow this article on how to connect the breadboard to the raspberry pi --> https://diyprojectslab.com/ads1115-16-bit-adc-with-raspberry-pi/
+- add a light to GPIO12 and GND (follow this article) https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all
 
 The ADS:
 - using ADS1115
